@@ -1,0 +1,10 @@
+**********Welcome to TAXI Service**********
+
+Following Routes are Available:
+f1 = DHA to FCCU
+f2 = Model Town to Johar Town
+f3 = Shahi Qila to Gulberg
+f4 = MughalPura to Bahria Town
+f5 = Shahdra to Gulshan Ravi
+f6 = Wapda Town to Gulberg
+f7 = Chubarji to Lohari Gate
